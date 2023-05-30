@@ -3,7 +3,7 @@ This is a Telegram Bot written in Python for mirroring files on the Internet to 
 
 ## Deploy on Heroku
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://gitlab.com/Dawn-India/Z-Mirror/-/tree/zh_deploy?ref_type=heads)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://gitlab.com/Dawn-India/Z-Mirror/-/tree/zh_deploy?https://github.com/tele-gram-bot/Z-Mirror)
 
 ## Deploy on Railway
 
